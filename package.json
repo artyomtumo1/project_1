@@ -1,5 +1,5 @@
 {
-  "name": "test_heroku_gol",
+  "name": "project_1",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanumanum/test-heroku-gol.git"
+    "url": "git+https://github.com/artyomtumo1/project_1.git"
   },
-  "author": "hanuman",
+  "author": "artyomtumo1",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hanumanum/test-heroku-gol/issues"
   },
-  "homepage": "https://tumotestgol.herokuapp.com/",
+  
   "dependencies": {
     "express": "^4.16.2"
   },
